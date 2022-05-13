@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![codewars](https://www.codewars.com/users/Melakuera%20/badges/large)](https://www.codewars.com/users/Melakuera%20)
+![здесь была гифка](doom-doometernal.gif "doom-eternal")
 
 <!--
 **Melakuera/Melakuera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
