@@ -1,18 +1,17 @@
-Приветствую на мой профиль!
+Добро пожаловать на профиль Эльдияра
 
-В настоящее время я:
+В настоящее время я...
 
-- иду в колледж каждый будний день
 - углубляю знания в сфере backend разработки
 - нигде не работаю, но готов себя продать ради опыта
+- пытяюсь сдать физику
+- учусь готовить пельмени
 - и многое другое...
-
-
 
 Связаться со мной:
 
 <a href="https://t.me/paradisenseii" target="_blank">
-  <img src="file-telegram-font-awesome-svg-wikimedia-commons-7.png" width="40px"/>
+  <img src="file-telegram-font-awesome-svg-wikimedia-commons-7.png" width="30px"/>
 </a>
 
 ⚡ Интересный факт: я люблю DOOM ETERNAL
