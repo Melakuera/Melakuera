@@ -1,3 +1,4 @@
+<!--
 Добро пожаловать на профиль Эльдияра!
 
 В настоящее время я...
@@ -16,7 +17,7 @@
 </a>
 
 ⚡ Интересный факт: я люблю DOOM ETERNAL <img src="pngwing.com(1).png" width="50px">
-
+-->
 <img src="doom-doometernal.gif"/>
 
 
