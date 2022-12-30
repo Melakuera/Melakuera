@@ -1,6 +1,6 @@
 <p float="left">
-  <img width="45%" src="doom-doometernal.gif"/>
-  <img width="45%" src="darksouls3.gif" alt="что"/>
+  <img width="50%" src="doom-doometernal.gif"/>
+  <img width="50%" src="darksouls3.gif" alt="что"/>
 </p>
 <!--
 **Melakuera/Melakuera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
